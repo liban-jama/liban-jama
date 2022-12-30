@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liban-jama" alt="liban-jama" /></a> </p>
 
-- 🔭 I’m currently working on **building projects with the M.E.R.N. Stack (MongoDB, Express.js), React.js and Node.js)**
+- 🔭 I’m currently working on **building projects with the M.E.R.N. Stack (MongoDB, Express.js, React.js and Node.js)**
 
 - 🌱 I’m currently learning **2D Platform Game Development in Javascript/HTML5 Canvas**
 
