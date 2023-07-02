@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **libanjama45@gmail.com**
 
-- 👨‍💻 View my Personal Portfolio at [ljama.com](http://ljama.com)
-
 <p align="center">
 </p>
 
