@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liban!</h1>
-<!-- <h3 align="center">A passionate software developer based in Seattle</h3> -->
+<!-- <h3 align="center">A passionate Project Manager based in Seattle</h3> -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liban-jama" alt="liban-jama" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Java or M.E.R.N. development**
 
-- 📫 How to reach me **libanjama45@gmail.com**
+- 📫 How to reach me **libanjama67@gmail.com**
 
 <p align="center">
 </p>
